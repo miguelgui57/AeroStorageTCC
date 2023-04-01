@@ -1,0 +1,23 @@
+{
+  "name": "AeroStorageTCC",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido de TCC 2023",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelgui57/AeroStorageTCC.git"
+  },
+  "author": "Hcode Treinamentos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hcodebr/curso-javascript-projeto-dropbox-clone/issues"
+  },
+  "homepage": "https://github.com/hcodebr/curso-javascript-projeto-dropbox-clone#readme",
+  "dependencies": {
+    "ionicons": "^2.0.1",
+    "bootstrap": "^4.1.0"
+  }
+}
